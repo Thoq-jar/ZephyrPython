@@ -1,0 +1,6 @@
+/zenv/
+/bazel-Zephyr/
+/bazel-out/
+/bazel-testlogs/
+/bazel-bin/
+/.ijwb/

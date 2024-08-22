@@ -1,0 +1,1 @@
+pyinstaller --onefile --name Zephyr --add-data 'static:static' --add-data 'templates:templates' main.py
